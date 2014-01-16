@@ -19,6 +19,7 @@
 
 #define KNRM  "\x1B[0m"
 #define KRED  "\x1B[31m"
+#define KRED  "\x1B[31m"
 #define KWHT  "\x1B[37m"
 
 uint64_t gFh = 0;
